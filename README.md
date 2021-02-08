@@ -1,0 +1,1 @@
+# Simple-Decision-Stump-algorithm-for-a-classification
